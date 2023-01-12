@@ -7,4 +7,4 @@
 <br/>
 
 ### Grass ☘️
-![DonggyuJin's github stats](https://github-readme-stats.vercel.app/api?username=DonggyuJin&include_orgs=true&show_icons=true&theme=tokyonight)
+![DonggyuJin's github stats](https://github-readme-stats.vercel.app/api?username=DonggyuJin&show_icons=true&theme=tokyonight)
