@@ -26,6 +26,7 @@ Front-end Engineer와 Product Manger를 달성하는
 
 ## Git Status ☘️
 
+![DonggyuJin's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DonggyuJin&layout=compact&theme=tokyonight)
 ![DonggyuJin's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DonggyuJin&show_icons=true&theme=tokyonight)
 
 <br/>
