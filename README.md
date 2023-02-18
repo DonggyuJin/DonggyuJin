@@ -10,8 +10,7 @@
 사이버보안을 전공하였고, 현재는 개발에 흥미와 적성을 느껴 
 꾸준히 개발과 알고리즘 공부를 병행하고 있습니다.
 
-Front-end Engineer와 Product Manger를 달성하는 
-그 날까지 끊임없이 달려나갈 것입니다.
+Front-end Engineer와 Product Manger가 되는 것이 꿈이자 목표입니다.
 
 끝으로, 부족한 저의 Github를 봐주셔서 감사합니다.
 
