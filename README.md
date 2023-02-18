@@ -34,5 +34,6 @@ Front-end Engineer와 Product Manger를 달성하는
 ## Algorithm 🖥️
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jdk2531)](https://solved.ac/jdk2531/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jdk2531&theme=warm)
 
 <br/>
