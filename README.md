@@ -5,6 +5,18 @@
 <a href="https://mail.naver.com" target="_blank"><img src="https://img.shields.io/badge/jdk2531@naver.com-04CF5C.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.google.com/gmail" target="_blank"><img src="https://img.shields.io/badge/jdk2531@gmail.com-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+안녕하세요, **진동규**입니다.
+
+사이버보안을 전공하였고, 현재는 개발에 흥미와 적성을 느껴 
+꾸준히 개발과 알고리즘 공부를 병행하고 있습니다.
+
+Front-end Engineer와 Product Manger를 달성하는 
+그 날까지 끊임없이 달려나갈 것입니다.
+
+끝으로, 부족한 Github를 봐주셔서 감사합니다.
+
+감사합니다 ☺️
+
 <br/>
 
 <!-- ### Most Tech Stack ✏️
