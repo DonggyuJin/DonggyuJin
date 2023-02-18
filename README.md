@@ -6,7 +6,7 @@
 <br/>
 <br/> -->
 
-<u>Git Status</u>
+__Git Status__
 
 ![DonggyuJin's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DonggyuJin&show_icons=true&theme=tokyonight)
 
