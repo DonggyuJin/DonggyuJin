@@ -1,6 +1,9 @@
 ## Intro 🙉
 
 <a href="https://slumpdev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.instagram.com/d_inggyu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F70165.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jdk2531@naver.com-04CF5C.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jdk2531@gmail.com-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br/>
 
