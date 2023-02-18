@@ -1,4 +1,7 @@
-### Hi there 👋 Have a Good day 😄
+## Intro 🙉
+
+<a href="https://slumpdev.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
 <br/>
 
 <!-- ### Most Tech Stack ✏️
