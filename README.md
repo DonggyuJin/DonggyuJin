@@ -13,7 +13,7 @@
 Front-end Engineer와 Product Manger를 달성하는 
 그 날까지 끊임없이 달려나갈 것입니다.
 
-끝으로, 부족한 Github를 봐주셔서 감사합니다.
+끝으로, 부족한 저의 Github를 봐주셔서 감사합니다.
 
 감사합니다 ☺️
 
