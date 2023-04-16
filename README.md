@@ -21,16 +21,17 @@
 <br/>
 <br/> -->
 
-## Git Status ☘️
+## Git & Algorithm ☘️
 
-![DonggyuJin's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DonggyuJin&layout=compact&theme=tokyonight)
+<!-- ![DonggyuJin's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DonggyuJin&layout=compact&theme=tokyonight) -->
 ![DonggyuJin's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DonggyuJin&show_icons=true&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jdk2531)](https://solved.ac/jdk2531/)
 
 <br/>
-
+<!-- 
 ## Algorithm 🖥️
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jdk2531)](https://solved.ac/jdk2531/)
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jdk2531&theme=warm)
 
-<br/>
+<br/> -->
